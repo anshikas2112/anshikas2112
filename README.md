@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Anshika
+![](https://komarev.com/ghpvc/?username=anshikas2112&color=blue&style=for-the-badge)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=24&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Power+BI+Dashboard+Creator;Python+Developer;AI+Learner)
 
@@ -45,17 +46,8 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshikasharmaaa/)
-<!--
-**anshikas2112/anshikas2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/anshikas2112/anshikas2112/blob/output/github-contribution-grid-snake.svg)
