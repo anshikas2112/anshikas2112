@@ -47,7 +47,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshikasharmaaa/)
 
+## 📈 Contribution Graph
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/anshikas2112/anshikas2112/blob/output/github-contribution-grid-snake.svg)
+![](https://github-readme-activity-graph.vercel.app/graph?username=anshikas2112&theme=react-dark)
