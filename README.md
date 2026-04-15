@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Anshika
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=24&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Power+BI+Dashboard+Creator;Python+Developer;AI+Learner)
+
 ## 🌟 About Me
 
 🎓 Pre Final-Year Computer Science Student  
