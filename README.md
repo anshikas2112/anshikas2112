@@ -40,7 +40,9 @@
 ![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshikas2112&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshikas2112&layout=compact&theme=radical)
 
+## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshikasharmaaa/)
 <!--
 **anshikas2112/anshikas2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
